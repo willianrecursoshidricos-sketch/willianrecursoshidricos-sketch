@@ -30,6 +30,13 @@ Página web com apresentação profissional, projetos e contatos.
 
 👉 https://github.com/willianrecursoshidricos-sketch/portfolio
 
+### 📊 Análise de Risco de Fundos Imobiliários (FIIs)
+Análise de risco de Fundos Imobiliários brasileiros utilizando **Web Scraping**,  
+**Machine Learning não supervisionado (Isolation Forest)** e **Power BI**, com foco
+na identificação de comportamentos atípicos em dividendos, liquidez e setores.
+
+👉 https://github.com/willianrecursoshidricos-sketch/fii-risk-analysis
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
